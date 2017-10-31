@@ -1,0 +1,19 @@
+body{
+	background-color: orange;
+}
+a{
+	color: blue;
+}
+a:hover{
+	color: black;
+	font-size: 150%;
+}
+h1, h2{
+	text-align: center;
+}
+li{
+	list-style-type: lower-greek;
+}
+p{
+	background-color: silver;
+}
