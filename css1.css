@@ -7,6 +7,14 @@ a{
 a:hover{
 	color: black;
 	font-size: 150%;
+	padding: 10% 0;
+}
+h1{
+	padding: 5% 5% 2% 5%;
+	background-color: black;
+	display:inline;
+	margin-left: 40%;
+	color:white;
 }
 h1, h2{
 	text-align: center;

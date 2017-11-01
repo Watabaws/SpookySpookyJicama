@@ -15,6 +15,14 @@ p{
 li{
 	list-style-type:decimal-leading-zero;
 }
+h1{
+	margin-top: 5%;
+	text-align: center;
+	background-color: purple;
+	padding: 5% 5% 2.5% 5%;
+	margin-left: 38%;
+	display: inline;
+}
 h1, h2, h3{
 	color: steelblue;
 }
