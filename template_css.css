@@ -1,0 +1,58 @@
+body{
+	background-color: #50514f;
+}
+.extreme{
+	background-color: #b4adea;
+	font-family: Impact;
+	font-size: 150%;
+	padding: 1%;
+	padding-bottom: 0%;
+	text-align: center;
+	height: 20%;
+	display: block;
+  	font-style: bold;
+	margin-bottom: -1%;
+}
+.navzone h3{
+	display: none;
+}
+.navzone ul{
+	background-color: lavender;
+	list-style-type: none;
+	font-family: Helvetica;
+	font-size: 1em;
+	display: block;
+	text-decoration: none;
+	padding: 2%;
+	height: 10%;
+}
+.navzone li{
+	display: inline;
+	padding: inherit;
+}
+.navzone li:hover{
+	color: #50514f;
+	background-color: #ffed65;
+	text-decoration: none;
+}
+.navzone a{
+    color: #59ffa0;
+	font-size: 150%;
+	text-decoration: none;
+}
+.content h2{
+	padding: .5% 2%;;
+	margin-top: -1%;
+	margin-bottom: -2%;
+	font-family: fantasy;
+	font-size: 200%;
+}
+.content{
+	background-color: #59ffa0;
+	height: 60%;
+}
+.prose{
+	font-size: 125%;
+	padding-left: 2.5%;
+	padding-right: .5%;
+}
